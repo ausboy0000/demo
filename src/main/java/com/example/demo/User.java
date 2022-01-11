@@ -23,6 +23,7 @@ public class User {
     public static void main(String[] args) {
         int n = User.fn(1);
         System.out.println(n);
+
         System.out.println(n);
         System.out.println(n);
         System.out.println(n);
